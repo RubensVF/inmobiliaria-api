@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/hero.css"],"names":[],"mappings":"AAAA,0BACI,GACE,yBACF,CACA,GACE,yBACF,CACJ,CAPA,kBACI,GACE,yBACF,CACA,GACE,yBACF,CACJ","file":"main.6af72196.chunk.css","sourcesContent":["@keyframes shrink {\r\n    0% {\r\n      background-size: 110% 110%;\r\n    }\r\n    100% {\r\n      background-size: 100% 100%;\r\n    }\r\n}"]}
